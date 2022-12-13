@@ -2,7 +2,7 @@
 
 The linker script and startup code is implemented from scratch.
 
-The startup code is implemented in two approaces:
+The startup code is implemented in two approaches:
 - startup.s with Assembly code
 - startup.c with C code
 
