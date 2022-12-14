@@ -10,4 +10,4 @@ Tools:
 
 <br>
 <br>
-<img src="asset/KeilUvisionSimulation.PNG" width="500"/>
+<img src="asset/KeilUvisionSimulation.PNG"/>
