@@ -20,5 +20,5 @@ Avoid collosion using Ultra-sonic sensor and DC motor. The implementation follow
 
 ## Interactive Simulation
 <br>
-<img src="asset/simulationtrace_fromttool.png" height="400"/>
+<img src="asset/simulationtrace_fromttool.png"/>
 
